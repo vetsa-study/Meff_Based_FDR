@@ -6,7 +6,13 @@ This repo provides a single R function `Meff_based_FDR()` to compute multiple te
 
 ## Installation / usage
 
-You can use the function by sourcing the script:
+You can source the function directly from GitHub:
+
+```r
+source("https://raw.githubusercontent.com/vetsa-study/Meff_Based_FDR/main/Meff_Based_FDR.R")
+```
+
+Or if you've cloned the repo locally:
 
 ```r
 source("Meff_Based_FDR.R")
