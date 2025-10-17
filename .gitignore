@@ -1,0 +1,10 @@
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj
+.Ruserdata
+
+# OS junk
+.DS_Store
+Thumbs.db
